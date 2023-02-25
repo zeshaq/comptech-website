@@ -352,7 +352,7 @@ export default function MegaNavBar() {
         <li  className="mr-4" data-te-nav-item-ref>
           <Link
             className="block py-2 pr-2  transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-white dark:focus:text-white lg:px-2"
-            href="#!"
+            href="contact_us"
             data-te-ripple-init
             data-te-ripple-color="light"
             >Contact Us</Link>
