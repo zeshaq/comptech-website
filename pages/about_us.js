@@ -83,15 +83,77 @@ uncomplicated solutions, proactively supported, that enable your organisation to
 <br/>
 <br/>
 <div className="grid grid-cols-4 text-center ">
-  <div>Border Guard Bangladesh (BGB)</div>
-  <div>Bangladesh Bureau of Statistics (BBS)</div>
-  <div>Bangladesh Bank</div>
-  <div>Janata Bank</div>
+  <div className="content-center">
+    <Image className="mx-auto" src="/images/Clients/bgb.png" width={100} height={100} />
+    Border Guard Bangladesh (BGB)</div>
 
-  <div>Modhumoti Bank Limited</div>
+  <div>
+  <Image className="mx-auto" src="/images/Clients/bbs.png" width={100} height={100}/>
+    Bangladesh Bureau of Statistics (BBS)</div>
+  <div>
+  <Image className="mx-auto" src="/images/Clients/bb.png" width={100} height={100}/>
+    Bangladesh Bank</div>
+  <div>
+  <Image className="mx-auto" src="/images/Clients/jbl.png" width={100} height={100}/>
+    Janata Bank</div>
 
-  <div>Islami Bank Bangladesh Ltd</div>
+  <div>
+  <Image className="mx-auto" src="/images/Clients/modhumoti.png" width={100} height={100}/>    
+    Modhumoti Bank Limited</div>
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/ibbl.png" width={100} height={100}/>
+    Islami Bank Bangladesh Ltd</div>
+
+
+
+    <div>
+  <Image className="mx-auto" src="/images/Clients/ab.png" width={100} height={100}/>
+    AB Bank  Ltd</div>
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/bnm.png" width={100} height={100}/>
+    Bangladesh National Museum</div>
+
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/birdem.png" width={100} height={100}/>
+    Birdem General Hospital</div>
+
+
+
+    <div>
+  <Image className="mx-auto" src="/images/Clients/agakhan.jpeg" width={100} height={100}/>
+    Agakhan School</div>
+
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/brri.png" width={100} height={100}/>
+    Bangladesh River Research Institute</div>
+
+
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/undp.png" width={100} height={100}/>
+    UNDP</div>
+
+
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/premier.png" width={100} height={100}/>
+    Premier Bank</div>
+
+  <div>
+  <Image className="mx-auto" src="/images/Clients/ibbl.png" width={100} height={100}/>
+    Islami Bank Bangladesh Ltd</div>
+
+
+
+
 </div>
+
+
+
 </div>
 </div>
 
