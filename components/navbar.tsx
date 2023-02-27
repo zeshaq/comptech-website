@@ -73,10 +73,10 @@ export default function MegaNavBar() {
               <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
                 <div>
                   <Link
-                    href="/privcloud"
+                    href="/private_cloud"
                     aria-current="true"
                     className="block w-full border-b border-neutral-200 px-6 py-2 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white"
-                    >Private Cloud Setup</Link>
+                    >Private Cloud </Link>
                   <Link
                     href="/public_cloud"
                     aria-current="true"
