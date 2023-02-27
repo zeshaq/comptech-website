@@ -19,6 +19,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/layout.js", "pages/about_us.js", "pages/private_cloud.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/layout.js", "pages/about_us.js", "pages/private_cloud.js", "pages/public_cloud.js"],
   "exclude": ["node_modules"]
 }

@@ -148,7 +148,13 @@ uncomplicated solutions, proactively supported, that enable your organisation to
     Islami Bank Bangladesh Ltd</div>
 
 
+    <div>
+  <Image className="mx-auto" src="/images/Clients/usaid.png" width={100} height={100}/>
+    USAID</div>
 
+    <div>
+  <Image className="mx-auto" src="/images/Clients/taf.png" width={100} height={100}/>
+    TAF</div>
 
 </div>
 

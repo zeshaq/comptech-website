@@ -2,7 +2,7 @@
 import Link from 'next/link'
 
 
-export default function MegaNavBar() {
+export default function old_MegaNavBar() {
     return (
 <>
 <nav
@@ -83,10 +83,10 @@ export default function MegaNavBar() {
                     className="block w-full border-b border-neutral-200 px-6 py-2 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white"
                     >Public Cloud </Link>
                   <Link
-                    href="iot"
+                    href="#!"
                     aria-current="true"
                     className="block w-full border-b border-neutral-200 px-6 py-2 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white"
-                    >IOT Analytics</Link>
+                    >Virtualization</Link>
                   <Link
                     href="#!"
                     aria-current="true"
