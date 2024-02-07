@@ -4,7 +4,7 @@ export default function HomeAboutUs() {
         <div className="container mx-auto">
       
       <p className="mt-6 mb-4 text-xl font-light leading-relaxed">
-        Since our establishment in 1989, we have been providing complete range of IT solutions,. including Security, Business Application Deployment,
+        Since our establishment in 1989, we have been providing complete range of IT solutions,. including IT Security, Business Application Deployment,
         Data Center Design and Commissioing. Our team consists of highly motivated and creative engineers who are trained in multi-disciplines to enable them provide 
         comprehensive solutions to our valued customers.
 </p>          
